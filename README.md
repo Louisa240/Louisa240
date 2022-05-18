@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Louisa240
+- 👋 Hi, I’m Louisa Odibo 
 - 👀 I’m interested in data science, project Management and soft ware Engineering.
 - 🌱 I’m currently learning data science 
 - 💞️ I’m looking to collaborate with onramp.
